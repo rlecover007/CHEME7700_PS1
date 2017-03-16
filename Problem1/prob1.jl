@@ -160,3 +160,30 @@ function main()
 	savefig("Problem1NotQuiteLinear.pdf")
 
 end
+
+function varyGeneLength()
+	close("all")
+	time_start = 0.0
+	time_stop = 1.0
+	time_step_size = 0.0001
+	lens = [10,100,1000]
+	colors = [".1",".4", ".8"]
+	for j in collect(1:size(lens,1))
+		data_dictionary = DataDictionary()
+		data_dictionary["specifics"][1] = lens[j] #change characteristic gene length
+		fed_equations(t,x) = BalanceEquations(t,x,data_dictionary)
+		T1,X1 = ODE.ode23(fed_equations, [1.0;0], collect(time_start:time_step_size:time_stop), abstol = 1E-6, reltol =1E-6)
+		semilogy(T1*60, ([a[2] for a in X1]), "-", color=colors[j])
+		data_dictionary["specifics"][3] =data_dictionary["specifics"][3]*10 #make k3 large to correspond to a lot of open DNA 
+		data_dictionary["specifics"][6] =data_dictionary["specifics"][6]*10 #make k3x large to correspond to a lot of unbound RNA-p 
+		fed_equations(t,x) = BalanceEquations(t,x,data_dictionary)
+		T2,X2 = ODE.ode23(fed_equations, [1.0;0], collect(time_start:time_step_size:time_stop), abstol = 1E-6, reltol =1E-6)
+		semilogy(T2*60, ([a[2] for a in X2]), "-", color = colors[j], linewidth = 3)
+
+	end
+	legend(["Lj = 10 case 1","Lj = 10 case 2", "Lj = 100 case 1", "Lj = 100 case 2", "Lj = 1000 case 1", "Lj = 1000 case 2"], loc="best")
+	xlabel("Time, Minutes")
+	ylabel("Protein Concentration, nM")
+	savefig("EffectsOfGeneLength.pdf")
+
+end

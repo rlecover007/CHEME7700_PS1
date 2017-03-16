@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.23)  15 MAR 2017 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.23)  16 MAR 2017 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -530,190 +530,349 @@ Package pdftex.def Info: ../Problem1/Problem1NotQuiteLinear.pdf used on input l
 ine 25.
 (pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
 
-<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf, id=2, 
-1084.05pt x 928.66951pt>
+<../Problem1/EffectsOfGeneLength.pdf, id=2, 578.16pt x 433.62pt>
+File: ../Problem1/EffectsOfGeneLength.pdf Graphic file (type pdf)
+
+<use ../Problem1/EffectsOfGeneLength.pdf>
+Package pdftex.def Info: ../Problem1/EffectsOfGeneLength.pdf used on input line
+ 35.
+(pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <../Problem1/Problem1NotQuiteLinear.pdf>]
+<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf, id=48,
+ 1084.05pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf Gr
 aphic file (type pdf)
 
 <use ../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf>
 Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ParameterSpeciesInteracti
-onsFrom0to10.pdf used on input line 40.
+onsFrom0to10.pdf used on input line 46.
 (pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf, id=3,
- 1084.05pt x 928.66951pt>
+<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf, id=49
+, 1084.05pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf G
 raphic file (type pdf)
 
 <use ../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf>
 Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ParameterSpeciesInteracti
-onsFrom10to70.pdf used on input line 46.
+onsFrom10to70.pdf used on input line 52.
 (pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 <../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.pdf, i
-d=4, 578.16pt x 433.62pt>
+d=50, 578.16pt x 433.62pt>
 File: ../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.p
 df Graphic file (type pdf)
 
 <use ../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.pd
 f>
 Package pdftex.def Info: ../ThreeGeneRachelV2/figures/NumberOfEstamatableParams
-AsAFunctionOfFreq.pdf used on input line 53.
+AsAFunctionOfFreq.pdf used on input line 59.
 (pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+ [2 <../Problem1/EffectsOfGeneLength.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <../Problem1/Problem1NotQuiteLinear.pdf>]
 Overfull \vbox (16.20651pt too high) has occurred while \output is active []
 
 
-[2 <../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf> <..
+[3 <../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf> <..
 /ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf
 
 pdfTeX warning: pdflatex (file ../ThreeGeneRachelV2/figures/ParameterSpeciesInt
 eractionsFrom10to70.pdf): PDF inclusion: multiple pdfs with page group included
  in a single page
->] <../Problem3/figures/postNMPlotLayout1.pdf, id=143, 578.16pt x 433.62pt>
+>] <../Problem3/figures/postNMPlotLayout1.pdf, id=186, 578.16pt x 433.62pt>
 File: ../Problem3/figures/postNMPlotLayout1.pdf Graphic file (type pdf)
 
 <use ../Problem3/figures/postNMPlotLayout1.pdf>
 Package pdftex.def Info: ../Problem3/figures/postNMPlotLayout1.pdf used on inpu
-t line 71.
+t line 75.
 (pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<../Problem3/figures/postNMPlotLayout3.pdf, id=144, 578.16pt x 433.62pt>
+<../Problem3/figures/postNMPlotLayout3.pdf, id=187, 578.16pt x 433.62pt>
 File: ../Problem3/figures/postNMPlotLayout3.pdf Graphic file (type pdf)
 
 <use ../Problem3/figures/postNMPlotLayout3.pdf>
 Package pdftex.def Info: ../Problem3/figures/postNMPlotLayout3.pdf used on inpu
-t line 86.
+t line 90.
 (pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-<../Problem3/figures/postNMPlotLayout5WGene2Info.pdf, id=145, 578.16pt x 433.62
+<../Problem3/figures/postNMPlotLayout5WGene2Info.pdf, id=188, 578.16pt x 433.62
 pt>
 File: ../Problem3/figures/postNMPlotLayout5WGene2Info.pdf Graphic file (type pd
 f)
  <use ../Problem3/figures/postNMPlotLayout5WGene2Info.pdf>
 Package pdftex.def Info: ../Problem3/figures/postNMPlotLayout5WGene2Info.pdf us
-ed on input line 104.
+ed on input line 108.
 (pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
- [3 <../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.pd
+ [4 <../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.pd
 f>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Problem3/figures/postNMPlotLayout5Gene2.pdf, id=194, 578.16pt x 433.62pt>
+<../Problem3/figures/postNMPlotLayout5Gene2.pdf, id=237, 578.16pt x 433.62pt>
 File: ../Problem3/figures/postNMPlotLayout5Gene2.pdf Graphic file (type pdf)
 
 <use ../Problem3/figures/postNMPlotLayout5Gene2.pdf>
 Package pdftex.def Info: ../Problem3/figures/postNMPlotLayout5Gene2.pdf used on
- input line 110.
+ input line 114.
 (pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4 <../Problem3/figures/postNMPlotLayout1.pdf> <../Problem3/figures/postNMPlotL
-ayout3.pdf
+ [5 <../Problem3/figures/postNMPlotLayout1.pdf> <../Problem3/figures/postNMPlot
+Layout3.pdf
 
 pdfTeX warning: pdflatex (file ../Problem3/figures/postNMPlotLayout3.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
->] [5 <../Problem3/figures/postNMPlotLayout5WGene2Info.pdf> <../Problem3/figure
+>] [6 <../Problem3/figures/postNMPlotLayout5WGene2Info.pdf> <../Problem3/figure
 s/postNMPlotLayout5Gene2.pdf
 
 pdfTeX warning: pdflatex (file ../Problem3/figures/postNMPlotLayout5Gene2.pdf):
  PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Overfull \hbox (131.56941pt too wide) in paragraph at lines 151--151
-[]\OT1/cmtt/m/n/5 n_gene_2_gene_1,K_gene_2_gene_1,n_gene_3_gene_1,K_gene_3_gene
-_1,W_gene_1_RNAP,W_gene_2_gene_1,W_gene_2_gene_3,W_gene_3_gene_1,W_gene_3_gene_
-2,rnapII_concentration,ribosome_concentration,degradation_constant_mRNA,kcat_tr
-anscription,kcat_translation,maximum_specific_growth_rate,saturation_constant_t
-ranslation[] 
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(2.84544pt, 608.60411pt, 2.84544pt)
+* v-part:(T,H,B)=(2.84544pt, 789.2791pt, 2.84544pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=608.60411pt
+* \textheight=789.2791pt
+* \oddsidemargin=-69.42455pt
+* \evensidemargin=-69.42455pt
+* \topmargin=-106.42455pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (816.52666pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,K[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,K[]
+gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gene[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]ge
+ne[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapII[]concentration,ribosome[]concentratio
+n,degradation[]constant[]mRNA,kcat[]transcription,kcat[]translation,maximum[]sp
+ecific[]growth[]rate,saturation[]constant[]translation 
  []
 
 
-Overfull \hbox (131.56941pt too wide) in paragraph at lines 151--151
-[]\OT1/cmtt/m/n/5 n_gene_2_gene_1,K_gene_2_gene_1,n_gene_3_gene_1,K_gene_3_gene
-_1,W_gene_1_RNAP,W_gene_2_gene_1,W_gene_2_gene_3,W_gene_3_gene_1,W_gene_3_gene_
-2,rnapII_concentration,ribosome_concentration,degradation_constant_mRNA,kcat_tr
-anscription,kcat_translation,maximum_specific_growth_rate,saturation_constant_t
-ranslation[] 
+Overfull \hbox (274.73663pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]3[]gene[]1,K[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapII[]concentration,degradation[]constant[]
+mRNA,kcat[]transcription,kcat[]translation,maximum[]specific[]growth[]rate 
  []
 
 
-Overfull \hbox (131.56941pt too wide) in paragraph at lines 151--151
-[]\OT1/cmtt/m/n/5 n_gene_2_gene_1,K_gene_2_gene_1,n_gene_3_gene_1,K_gene_3_gene
-_1,W_gene_1_RNAP,W_gene_2_gene_1,W_gene_2_gene_3,W_gene_3_gene_1,W_gene_3_gene_
-2,rnapII_concentration,ribosome_concentration,degradation_constant_mRNA,kcat_tr
-anscription,kcat_translation,maximum_specific_growth_rate,saturation_constant_t
-ranslation[] 
+Overfull \hbox (816.52666pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,K[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,K[]
+gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gene[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]ge
+ne[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapII[]concentration,ribosome[]concentratio
+n,degradation[]constant[]mRNA,kcat[]transcription,kcat[]translation,maximum[]sp
+ecific[]growth[]rate,saturation[]constant[]translation 
  []
 
 
-Overfull \hbox (46.56844pt too wide) in paragraph at lines 151--151
-[]\OT1/cmtt/m/n/5 n_gene_2_gene_1,n_gene_3_gene_1,W_gene_1_RNAP,W_gene_2_gene_1
-,W_gene_2_gene_3,W_gene_3_gene_1,W_gene_3_gene_2,rnapII_concentration,ribosome_
-concentration,degradation_constant_mRNA,kcat_transcription,kcat_translation,max
-imum_specific_growth_rate,saturation_constant_translation[] 
+Overfull \hbox (274.73663pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]3[]gene[]1,K[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapII[]concentration,degradation[]constant[]
+mRNA,kcat[]transcription,kcat[]translation,maximum[]specific[]growth[]rate 
  []
 
-[6
 
-] (./PS1writeup.aux) ) 
+Overfull \hbox (816.52666pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,K[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,K[]
+gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gene[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]ge
+ne[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapII[]concentration,ribosome[]concentratio
+n,degradation[]constant[]mRNA,kcat[]transcription,kcat[]translation,maximum[]sp
+ecific[]growth[]rate,saturation[]constant[]translation 
+ []
+
+
+Overfull \hbox (198.39204pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]3[]gene[]1,K[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]3[]gene[]2,rnapII[]concentration,degradation[]constant[]mRNA,kcat[]transcrip
+tion,kcat[]translation,maximum[]specific[]growth[]rate 
+ []
+
+
+Overfull \hbox (668.83748pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]gene[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapI
+I[]concentration,ribosome[]concentration,degradation[]constant[]mRNA,kcat[]tran
+scription,kcat[]translation,maximum[]specific[]growth[]rate,saturation[]constan
+t[]translation 
+ []
+
+
+Overfull \hbox (198.39204pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]3[]gene[]1,K[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]3[]gene[]2,rnapII[]concentration,degradation[]constant[]mRNA,kcat[]transcrip
+tion,kcat[]translation,maximum[]specific[]growth[]rate 
+ []
+
+
+Overfull \hbox (530.02603pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]gene[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapI
+I[]concentration,ribosome[]concentration,degradation[]constant[]mRNA,kcat[]tran
+scription,kcat[]translation,maximum[]specific[]growth[]rate 
+ []
+
+
+Overfull \hbox (117.45853pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]3[]gene[]1,K[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]3[]gene[]2,rnapII[]concentration,degradation[]constant[]mRNA,kcat[]translati
+on,maximum[]specific[]growth[]rate 
+ []
+
+
+Overfull \hbox (530.02603pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]gene[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapI
+I[]concentration,ribosome[]concentration,degradation[]constant[]mRNA,kcat[]tran
+scription,kcat[]translation,maximum[]specific[]growth[]rate 
+ []
+
+
+Overfull \hbox (43.61394pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gene[]3[]gene[]2,rnapII
+[]concentration,degradation[]constant[]mRNA,kcat[]translation,maximum[]specific
+[]growth[]rate 
+ []
+
+
+Overfull \hbox (449.09251pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]gene[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapI
+I[]concentration,ribosome[]concentration,degradation[]constant[]mRNA,kcat[]tran
+slation,maximum[]specific[]growth[]rate 
+ []
+
+
+Overfull \hbox (344.27007pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 n[]gene[]2[]gene[]1,n[]gene[]3[]gene[]1,W[]gene[]1[]RNAP,W[]gen
+e[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]gene[]3[]gene[]1,W[]gene[]3[]gene[]2,rnapI
+I[]concentration,degradation[]constant[]mRNA,kcat[]translation,maximum[]specifi
+c[]growth[]rate 
+ []
+
+
+Overfull \hbox (263.20332pt too wide) in paragraph at lines 160--160
+\OT1/cmr/m/n/10 W[]gene[]2[]gene[]1,W[]gene[]2[]gene[]3,W[]gene[]3[]gene[]1,W[]
+gene[]3[]gene[]2,rnapII[]concentration,degradation[]constant[]mRNA,kcat[]transl
+ation,maximum[]specific[]growth[]rate,saturation[]constant[]translation 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+[7
+
+
+]
+<../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0to10.pdf, id=426, 1084.05
+pt x 928.66951pt>
+File: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0to10.pdf Graphic fil
+e (type pdf)
+
+<use ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0to10.pdf>
+Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0t
+o10.pdf used on input line 167.
+(pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
+
+<../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10to70.pdf, id=427, 1084.0
+5pt x 928.66951pt>
+File: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10to70.pdf Graphic fi
+le (type pdf)
+
+<use ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10to70.pdf>
+Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10
+to70.pdf used on input line 172.
+(pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
+
+<../ThreeGeneRachelV2/figures/ParameterInteractionsFrom0to10.pdf, id=428, 1084.
+05pt x 928.66951pt>
+File: ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom0to10.pdf Graphic f
+ile (type pdf)
+
+<use ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom0to10.pdf>
+Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom
+0to10.pdf used on input line 177.
+(pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
+
+<../ThreeGeneRachelV2/figures/ParameterInteractionsFrom10to70.pdf, id=429, 1084
+.05pt x 928.66951pt>
+File: ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom10to70.pdf Graphic 
+file (type pdf)
+
+<use ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom10to70.pdf>
+Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom
+10to70.pdf used on input line 182.
+(pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
+ [8
+
+ <../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0to10.pdf> <../ThreeGeneR
+achelV2/figures/ProteinInteractionsFrom10to70.pdf
+
+pdfTeX warning: pdflatex (file ../ThreeGeneRachelV2/figures/ProteinInteractions
+From10to70.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>] [9 <../ThreeGeneRachelV2/figures/ParameterInteractionsFrom0to10.pdf> <../Thr
+eeGeneRachelV2/figures/ParameterInteractionsFrom10to70.pdf
+
+pdfTeX warning: pdflatex (file ../ThreeGeneRachelV2/figures/ParameterInteractio
+nsFrom10to70.pdf): PDF inclusion: multiple pdfs with page group included in a s
+ingle page
+>] (./PS1writeup.aux) ) 
 Here is how much of TeX's memory you used:
- 2451 strings out of 493029
- 34659 string characters out of 6136234
- 104305 words of memory out of 5000000
- 5958 multiletter control sequences out of 15000+600000
- 5186 words of font info for 20 fonts, out of 8000000 for 9000
+ 2476 strings out of 493029
+ 36065 string characters out of 6136234
+ 123314 words of memory out of 5000000
+ 5979 multiletter control sequences out of 15000+600000
+ 5018 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,43p,826b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on PS1writeup.pdf (6 pages, 219168 bytes).
+ 38i,10n,43p,909b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on PS1writeup.pdf (9 pages, 307778 bytes).
 PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 616 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
