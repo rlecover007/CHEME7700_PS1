@@ -1,0 +1,12 @@
+// ----------------------------------------------------------------------- //
+// JuGRN interactions -
+//
+// Record:
+// actor {activate(*),induce(*) | inhibit(*),repress(*)} (target,...)
+// ---------------------------------------------------------------------- //
+
+// three gene memory network -
+gene_1 induces (gene_2,gene_3)
+gene_2 activates gene_3
+gene_3 activates gene_2
+
