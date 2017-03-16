@@ -14,7 +14,7 @@ function BalanceEquations(t,x,data_dict)
 	Lt = params[6]
 	Kt = params[7]
 	Kx = params[8]
-	mubar = params[9]
+	mubar = 0.0 #in test tube
 	Rt =params[10]
 	Rx = params[11]
 	Lx= params[12]
@@ -130,21 +130,26 @@ end
 function makePlot(t,x, stylestr)
 #	figure()
 	plt[:subplot](2,1,1)
-	axis([0,10,0,50])
+	axis([0,.5,0,5])
 	plot(t, ([a[1] for a in x]), string("r", stylestr))
 	title("mRNA")
+	xlabel("Time, AU")
+	ylabel("Concentration, AU")
 	plt[:subplot](2,1,2)
-	axis([0,10,0,400])
+	axis([0,.5,0,5])
 	plot(t, ([a[2] for a in x]), string("b", stylestr))
 	title("Protein")
+	xlabel("Time, AU")
+	ylabel("Concentration, AU")
 	
 end
 
 function main()
 	close("all")
 	time_start = 0.0
-	time_stop = 1.0
+	time_stop = .01
 	time_step_size = 0.0001
+	figure(figsize=[15,15])
 	data_dictionary = DataDictionary()
 	fed_equations(t,x) = BalanceEquations(t,x,data_dictionary)
 	T1,X1 = ODE.ode23(fed_equations, [1.0;0], collect(time_start:time_step_size:time_stop), abstol = 1E-6, reltol =1E-6)
@@ -155,8 +160,6 @@ function main()
 	T2,X2 = ODE.ode23(fed_equations, [1.0;0], collect(time_start:time_step_size:time_stop), abstol = 1E-6, reltol =1E-6)
 	makePlot(T2*60,X2, "-.")
 	legend(["Case 1", "Case 2"], loc="best")
-	xlabel("Time, Minues")
-	ylabel("Concentration, nM")
 	savefig("Problem1NotQuiteLinear.pdf")
 
 end

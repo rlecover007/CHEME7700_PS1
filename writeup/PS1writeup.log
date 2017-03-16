@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.23)  16 MAR 2017 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.6.23)  16 MAR 2017 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,13 +522,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 18.
-<../Problem1/Problem1NotQuiteLinear.pdf, id=1, 578.16pt x 433.62pt>
+<../Problem1/Problem1NotQuiteLinear.pdf, id=1, 1084.05pt x 928.66951pt>
 File: ../Problem1/Problem1NotQuiteLinear.pdf Graphic file (type pdf)
 
 <use ../Problem1/Problem1NotQuiteLinear.pdf>
 Package pdftex.def Info: ../Problem1/Problem1NotQuiteLinear.pdf used on input l
 ine 25.
-(pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
+(pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
 
 <../Problem1/EffectsOfGeneLength.pdf, id=2, 578.16pt x 433.62pt>
 File: ../Problem1/EffectsOfGeneLength.pdf Graphic file (type pdf)
@@ -540,7 +540,7 @@ Package pdftex.def Info: ../Problem1/EffectsOfGeneLength.pdf used on input line
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <../Problem1/Problem1NotQuiteLinear.pdf>]
-<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf, id=48,
+<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf, id=46,
  1084.05pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom0to10.pdf Gr
 aphic file (type pdf)
@@ -554,7 +554,7 @@ onsFrom0to10.pdf used on input line 46.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf, id=49
+<../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf, id=47
 , 1084.05pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ParameterSpeciesInteractionsFrom10to70.pdf G
 raphic file (type pdf)
@@ -565,7 +565,7 @@ onsFrom10to70.pdf used on input line 52.
 (pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
 
 <../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.pdf, i
-d=50, 578.16pt x 433.62pt>
+d=48, 578.16pt x 433.62pt>
 File: ../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.p
 df Graphic file (type pdf)
 
@@ -589,7 +589,7 @@ Overfull \vbox (16.20651pt too high) has occurred while \output is active []
 pdfTeX warning: pdflatex (file ../ThreeGeneRachelV2/figures/ParameterSpeciesInt
 eractionsFrom10to70.pdf): PDF inclusion: multiple pdfs with page group included
  in a single page
->] <../Problem3/figures/postNMPlotLayout1.pdf, id=186, 578.16pt x 433.62pt>
+>] <../Problem3/figures/postNMPlotLayout1.pdf, id=184, 578.16pt x 433.62pt>
 File: ../Problem3/figures/postNMPlotLayout1.pdf Graphic file (type pdf)
 
 <use ../Problem3/figures/postNMPlotLayout1.pdf>
@@ -601,7 +601,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<../Problem3/figures/postNMPlotLayout3.pdf, id=187, 578.16pt x 433.62pt>
+<../Problem3/figures/postNMPlotLayout3.pdf, id=185, 578.16pt x 433.62pt>
 File: ../Problem3/figures/postNMPlotLayout3.pdf Graphic file (type pdf)
 
 <use ../Problem3/figures/postNMPlotLayout3.pdf>
@@ -614,7 +614,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
  []
 
 
-<../Problem3/figures/postNMPlotLayout5WGene2Info.pdf, id=188, 578.16pt x 433.62
+<../Problem3/figures/postNMPlotLayout5WGene2Info.pdf, id=186, 578.16pt x 433.62
 pt>
 File: ../Problem3/figures/postNMPlotLayout5WGene2Info.pdf Graphic file (type pd
 f)
@@ -624,7 +624,7 @@ ed on input line 108.
 (pdftex.def)             Requested size: 341.43306pt x 256.07178pt.
  [4 <../ThreeGeneRachelV2/figures/NumberOfEstamatableParamsAsAFunctionOfFreq.pd
 f>]
-<../Problem3/figures/postNMPlotLayout5Gene2.pdf, id=237, 578.16pt x 433.62pt>
+<../Problem3/figures/postNMPlotLayout5Gene2.pdf, id=235, 578.16pt x 433.62pt>
 File: ../Problem3/figures/postNMPlotLayout5Gene2.pdf Graphic file (type pdf)
 
 <use ../Problem3/figures/postNMPlotLayout5Gene2.pdf>
@@ -800,7 +800,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 160--160
 
 
 ]
-<../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0to10.pdf, id=426, 1084.05
+<../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0to10.pdf, id=424, 1084.05
 pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0to10.pdf Graphic fil
 e (type pdf)
@@ -810,7 +810,7 @@ Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom0t
 o10.pdf used on input line 167.
 (pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
 
-<../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10to70.pdf, id=427, 1084.0
+<../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10to70.pdf, id=425, 1084.0
 5pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10to70.pdf Graphic fi
 le (type pdf)
@@ -820,7 +820,7 @@ Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ProteinInteractionsFrom10
 to70.pdf used on input line 172.
 (pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
 
-<../ThreeGeneRachelV2/figures/ParameterInteractionsFrom0to10.pdf, id=428, 1084.
+<../ThreeGeneRachelV2/figures/ParameterInteractionsFrom0to10.pdf, id=426, 1084.
 05pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom0to10.pdf Graphic f
 ile (type pdf)
@@ -830,7 +830,7 @@ Package pdftex.def Info: ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom
 0to10.pdf used on input line 177.
 (pdftex.def)             Requested size: 341.43306pt x 292.48993pt.
 
-<../ThreeGeneRachelV2/figures/ParameterInteractionsFrom10to70.pdf, id=429, 1084
+<../ThreeGeneRachelV2/figures/ParameterInteractionsFrom10to70.pdf, id=427, 1084
 .05pt x 928.66951pt>
 File: ../ThreeGeneRachelV2/figures/ParameterInteractionsFrom10to70.pdf Graphic 
 file (type pdf)
@@ -869,9 +869,9 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PS1writeup.pdf (9 pages, 307778 bytes).
+Output written on PS1writeup.pdf (9 pages, 309998 bytes).
 PDF statistics:
- 616 PDF objects out of 1000 (max. 8388607)
+ 614 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
